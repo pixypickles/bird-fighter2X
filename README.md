@@ -1,24 +1,11 @@
-# Bird Fighter 2X
+# Bird Fighter 2X Ver.2.1
 
-鳥の格闘ゲーム 2X 版です。
+## 更新内容
 
-## アップロードするファイル
+- 超必殺ヒットでKOしても、演出終了までK.O.判定を待つように調整
+- 超必殺ヒット時、相手が画面端まで吹っ飛ぶ演出を強化
+- 画面端衝突時の WALL CRASH 演出を追加
 
-GitHub リポジトリの一番上に、以下を全部アップロードしてください。
+## GitHubにアップロードするもの
 
-- index.html
-- style.css
-- game.js
-- idle.webp
-- kick1.webp
-- kick2.webp
-- kick3.webp
-- special.webp
-- throw.webp
-- down.webp
-- super_charge.webp
-- super_dash.webp
-
-## 公開設定
-
-Settings → Pages → Branch: main / root
+このZIPを解凍して、中身をすべてリポジトリ直下にアップロードしてください。
